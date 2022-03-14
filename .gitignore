@@ -1,0 +1,14 @@
+**/.vscode/*
+**/*.i64
+**/*.idb
+**/*.zip
+**/*.rar
+**/*.7z
+**/.gdb_history
+**/core
+*.burp
+*.id0
+*.id1
+*.id2
+*.nam
+*.til

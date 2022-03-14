@@ -1,0 +1,1 @@
+Md分析了半天，结果是`gnip<ip_addrsss>`命令注入，`ip_address`直接输入`;/bin/sh`即可。
